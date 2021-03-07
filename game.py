@@ -41,6 +41,6 @@ def main(file):
     game.full_game()
 
 
-filename = "text.txt"
+filename = "text1.txt"
 file = open(filename, 'r')
 main(file)
