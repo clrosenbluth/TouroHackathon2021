@@ -3,7 +3,6 @@ from os import path
 import os
 
 import time
-
 # A function that returns the name of the teacher, the name of the class, and the name of the input file
 def get_info():
     print("Welcome to Speed Type!")
